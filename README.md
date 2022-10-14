@@ -4,7 +4,6 @@
 <br>  
 <div align="center">
   <p>Aplicativo que cria uma sala para ouvir uma musica compartilhada entre os usuarios na mesma sala</p>
-  <p>criar um aplicativo SPA(single page aplication) com o backend feito com python utilizando a framework Dajngo.</p>
 </div>
 <br> 
 <div>
